@@ -1,4 +1,4 @@
-# ChemE373-HW3
+# ChemE375-HW3
 # ChemE 375: HW3
 
 The assignment is due midnight **before** the beginning of the next class period.
